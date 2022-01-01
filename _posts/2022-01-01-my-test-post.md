@@ -3,6 +3,7 @@ layout: post
 title: my test post
 author: rnch
 tags: [test, mypost, math]
+categories : Markdown
 date: 2022-01-01 15:45 +0800
 toc:  true
 ---
