@@ -6,7 +6,8 @@ title: About
 ## github 블로그를 시작하면서  
 ---
 
-![placeholder] (https://github.com/chaaaning/chaaaning.github.io/blob/master/plz_wait.jpg "채워지는 github 블로그 기다려주세요 :))"{: .align-center}
+![image](https://github.com/chaaaning/chaaaning.github.io/blob/master/plz_wait.jpg "채워지는 github 블로그 기다려주세요 :)"){: .align-center}
+
 
 약간은 충동적이면서도 목적 의식을 명확하게 하고자 github 블로그를 시작합니다. 제목은 보셨다시피 '데이터 구글링하세요?' 입니다. 학부시절에 IT 관련 학과를 복수 전공하면서 데이터 분야에 발을 들였습니다. 그 때는 정말 과도기적인 시기에 였던지라 코딩의 시작은 Java, 데이터 마이닝은 R, 알고리즘은 Python으로 공부했었습니다. 당연하게도 저에게 주 언어라는 것은 없었고, 어떻게 보면 고난길이었습니다.  
 
