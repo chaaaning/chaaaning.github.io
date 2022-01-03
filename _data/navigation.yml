@@ -1,6 +1,17 @@
 - title: Blog
   url: /
-- title: About
-  url: /about/
+
 - title: Category
   url : /categories/
+
+- title: Python(test)
+  url : /categories/
+- title: ML(test)
+  url : /categories/
+- title: DL(test)
+  url : /categories/
+- title: MARKDOWN
+  url : /categories/
+
+- title: About
+  url: /about/
