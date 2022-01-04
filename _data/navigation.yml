@@ -5,13 +5,13 @@
   url : /categories/
 
 - title: Python(test)
-  url : /categories/
+  url : /categories/#python
 - title: ML(test)
-  url : /categories/
+  url : /categories/#ml
 - title: DL(test)
-  url : /categories/
-- title: MARKDOWN
-  url : /categories/
+  url : /categories/#dl
+- title: MARKDOWN(test)
+  url : /categories/#markdown
 
 - title: About
   url: /about/
