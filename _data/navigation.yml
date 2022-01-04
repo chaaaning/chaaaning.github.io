@@ -5,11 +5,16 @@
   url : /categories/
 
 - title: Python(test)
+  menu : true
+  submenu : true
   url : /categories/#python
+
 - title: ML(test)
   url : /categories/#ml
+
 - title: DL(test)
   url : /categories/#dl
+  
 - title: MARKDOWN(test)
   url : /categories/#markdown
 
