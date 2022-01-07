@@ -57,3 +57,12 @@ author:
   name: RNCH
   url: https://github.com/chaaaning/
   email: yunjch21@gmail.com
+
+ tipue_search:
+     include:
+         pages: false
+         collections: []
+     exclude:
+         files: [search.html, index.html, tags.html]
+         categories: []
+         tags: []
