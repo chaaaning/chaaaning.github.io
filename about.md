@@ -6,7 +6,10 @@ title: About
 ## github 블로그를 시작하면서  
 ---
 
-![image](/plz_wait.jpg)
+<center>
+    <img src="https://github.com/chaaaning/chaaaning.github.io/blob/master/plz_wait.jpg?raw=true">
+</center>
+
 <center>
     <span style='color:silver'>채워지는 github 블로그 기다려주세요 :)</span>
 </center>
