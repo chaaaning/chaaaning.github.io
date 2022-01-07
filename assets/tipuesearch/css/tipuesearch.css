@@ -38,9 +38,9 @@ http://www.tipue.com/search
 #tipue_search_input
 {
      color: #333;
-     max-width: 150px;
-     max-height: 15px;
-	padding: 17px;
+     max-width: 180px;
+     max-height: 9px;
+	padding: 10px 10px;
 	border: 2px solid #e3e3e3;
 	border-radius: 0;
 	-moz-appearance: none;
@@ -48,13 +48,14 @@ http://www.tipue.com/search
      box-shadow: none; 
 	outline: 0;
 	margin: 0;
+     margin-top: 1.2rem;
 }
 .tipue_search_icon
 {
-     width: 32px;
-     height: 32px;
+     width: 30px;
+     height: 30px;
      /* margin-bottom: 5rem; */
-     margin-top: 1.2rem;
+     margin-top: 1.55rem;
      /* background-color: #021949; */
 
 
@@ -62,12 +63,12 @@ http://www.tipue.com/search
 .tipue_search_left
 {
      float: right;
-     /* padding: 15px 9px 0 0; */
+     /* padding: 10px 20px 0 0; */
 }
 .tipue_search_right
 {
      float: right;
-     padding: 15px 9px 0 0;
+     padding: 10px 10px 0 0;
 }
 
 

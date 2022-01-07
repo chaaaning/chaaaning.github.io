@@ -6,11 +6,16 @@
 code,
 pre {
   font-family: var(--code-font);
+  padding: 0.27rem;
+  margin-bottom: var(--spacer);
+  background-color: var(--code-bg);
+  border-radius: var(--border-radius);
 }
 
 code {
   font-size: 85%;
 }
+
 
 pre {
   display: block;
@@ -32,12 +37,14 @@ pre {
   // Triple backticks (code fencing) doubles the .highlight elements
   .highlight {
     padding: 0;
+    background-color: var(--code-bg)
   }
 }
 
 .rouge-table {
   margin-bottom: 0;
   font-size: 100%;
+  background-color: var(--code-bg)
 
   &,
   td,
