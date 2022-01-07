@@ -10,14 +10,14 @@ toc:  true
 ## pycocotools는?
 ---
 pycocotools는 obeject detection, face detection 등 어떤 객체를 검출하는 vision 분야 딥러닝에서 접할 수 있습니다. pycocotools는 COCO(*Comon Object COntext*)의 `.json` 파일을 손쉽게 다룰 수 있는 패키지입니다. 실제로 COCO의 데이터 셋 뿐만 아니라, 검출 계열에서 annotation으로 많이 제공됩니다.
-<a style='display: block;text-align: center;' href='https://cocodataset.org/#download'>
+<a style="display: block;text-align: center;" href="https://cocodataset.org/#download">
     <center>
-        <img src='../blog_photo/2022-01-08-error-about-pycocotools/coco.png'>
+        <img src="https://github.com/chaaaning/chaaaning.github.io/blob/master/images/설치에러_pycocotools/coco.png?raw=true">
     </center>
 </a>
 
 
-위의 사진에 COCO의 데이터셋 링크를 첨부해두었습니다. Object Detection을 공부할 때 좋은 데이터들이 많습니다. 이러한 COCO의 json에 대해서는 [아직 없음]('https://chaaaning.github.io')에 더 자세히 기술해 보겠습니다.
+위의 사진에 COCO의 데이터셋 링크를 첨부해두었습니다. Object Detection을 공부할 때 좋은 데이터들이 많습니다. 이러한 COCO의 json에 대해서는 [아직 없음]("https://chaaaning.github.io")에 더 자세히 기술해 보겠습니다.
 
 
 ## pycocotools의 설치
@@ -26,7 +26,7 @@ pycocotools는 obeject detection, face detection 등 어떤 객체를 검출하�
 
 1. `pip install pycocotools`
 2. `conda install -c conda-forge pycocotools`
-3. `pip install 'git+https://github.com/philferriere/cocoapi.git#egg=pycocotools&subdirectory=PythonAPI'`
+3. `pip install "git+https://github.com/philferriere/cocoapi.git#egg=pycocotools&subdirectory=PythonAPI"`
 4. **`PyPl에서 직접 설치`**
 
 
@@ -46,9 +46,10 @@ pycocotools는 obeject detection, face detection 등 어떤 객체를 검출하�
 웬만해서는 실패율이 거의 없는 커맨드가 conda 커맨드입니다. 구글에 검색했을 때 보시면, 
 
 <center>
-    <img src='../blog_photo/2022-01-08-error-about-pycocotools/conda_install.png'>
+    <img src="https://github.com/chaaaning/chaaaning.github.io/blob/master/images/설치에러_pycocotools/conda_install.png?raw=true">
 </center>
-<center><span style='color:silver'>*conda 홈페이지에서 제공하는 커맨드*</span></center>
+<center><span style="color:silver">conda 홈페이지에서 제공하는 커맨드</span></center>
 
-![conda_install](../blog_photo/2022-01-08-error-about-pycocotools/conda_install.png)*conda 홈페이지에서 제공하는 커맨드*
+
+이렇게 총 4개의 커맨드를 제공하지만, 모두 다 **찾을 수 없는 패키지**라는 경고를 반환합니다. conda 내에 구축이 되어있지 않다면 다운 받을 수 없다는 생각이 들어 포기했습니다.
 
