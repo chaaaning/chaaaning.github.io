@@ -57,7 +57,7 @@ pycocotools는 obeject detection, face detection 등 어떤 객체를 검출하�
 이렇게 총 4개의 커맨드를 제공하지만, 모두 다 **찾을 수 없는 패키지**라는 경고를 반환합니다. conda 내에 구축이 되어있지 않다면 다운 받을 수 없다는 생각이 들어 포기했습니다.
 <br><br>
 
-### `pip install "git+https://github.com/philferriere/cocoapi...`
+### `pip install "git+https://github.com/philferriere...`
 ---
 이 방식은 pycocotools를 git에서 직접 가져오는 방식입니다. 이것 역시 `Visual Studio 14+` 버전 설치로 인해 실패했습니다.
 
