@@ -50,7 +50,7 @@ sass:
 # google_analytics: UA-000000-0
 
 # Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
+disqus: RNCH
 
 # Specify the author for blog posts
 author:
@@ -66,6 +66,7 @@ tipue_search:
         files: [search.html, index.html, tags.html]
         categories: []
         tags: []
+
 
 # markdown: kramdown
 # kramdown:
