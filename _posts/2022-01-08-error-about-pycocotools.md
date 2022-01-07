@@ -60,6 +60,7 @@ pycocotools는 obeject detection, face detection 등 어떤 객체를 검출하�
 ### `pip install "git+https://github.com/philferriere...`
 ---
 이 방식은 pycocotools를 git에서 직접 가져오는 방식입니다. 이것 역시 `Visual Studio 14+` 버전 설치로 인해 실패했습니다.
+<br><br>
 
 ### `PyPl에서 직접 설치`
 ---
