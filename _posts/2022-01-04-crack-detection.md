@@ -3,7 +3,7 @@ layout: post
 title: Road Crack Detection 프로젝트를 시작하며
 date: 2022-01-04 11:54 +0800
 categories : DL
-tags: [project, DL, pytorch, opencv]
+tags: [project, computer vision]
 toc:  true
 ---
 
