@@ -6,6 +6,7 @@ categories : HOBBY
 tags: [laptop]
 toc:  true
 ---
+<span style="color:gray">! 작성 중인 post</span>
 
 ## 노트북을 구매해 보자
 ---
