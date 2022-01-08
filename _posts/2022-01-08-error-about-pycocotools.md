@@ -3,7 +3,7 @@ layout: post
 title: "[설치에러] pycocotools 패키지는 왜 설치가 안될까?"
 date: 2022-01-08 01:24 +0800
 categories : ERROR
-tags: [error, pycocotools, 설치에러]
+tags: [pycocotools, 설치에러]
 toc:  true
 ---
 

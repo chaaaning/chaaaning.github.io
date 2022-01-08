@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Road Crack Detection 프로젝트를 시작하며
+title: "[Project] Road Crack Detection 프로젝트를 시작하며"
 date: 2022-01-04 11:54 +0800
 categories : DL
-tags: [project, DL, pytorch, opencv]
+tags: [project]
 toc:  true
 ---
 
@@ -27,3 +27,9 @@ toc:  true
 ## 앞으로..
 ---
 뭐 아직은 이정도로 구상만 해놓은 단계이지만, 다행스럽게도 같이 진행할 팀원도 있습니다. 또 기대되는 점은 gpu 기반의 모델 개발환경을 세팅하고, 최근 맛들린 github를 통한 협업도 기대가 됩니다. 벌써부터 부딪힐 문제들이 무섭고도 걱정이 되지만,, 꾸준히 기록하며 프로젝트 성공적으로 마무리 해보겠습니다!
+
+{% if page.comments %}
+<div id="post-disqus" class="container">
+{% include disqus.html %}
+</div>
+{% endif %}
