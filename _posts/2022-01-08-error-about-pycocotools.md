@@ -34,8 +34,6 @@ pycocotools는 obeject detection, face detection 등 어떤 객체를 검출하�
 3. `pip install "git+https://github.com/philferriere/cocoapi.git#egg=pycocotools&subdirectory=PythonAPI"`
 4. **`PyPl에서 직접 설치`**
 
-
-
 결론부터 말하자면 저는 4번의 방법으로 성공했습니다. 다 실패하고 쓰는 글이기 때문에 실패 과정의 이미지는 없습니다.😞 우선 저는 생소한 패키지를 설치할 때, 무작정 `pip install packages`를 하기 보다는 구글에 `pycocotools install`과 같은 식으로 검색을 합니다. 그럼 보통 conda나 PyPl에서 제공하는 커맨드를 입력합니다.
 <br><br>
 
@@ -60,6 +58,7 @@ pycocotools는 obeject detection, face detection 등 어떤 객체를 검출하�
 ### `pip install "git+https://github.com/philferriere...`
 ---
 이 방식은 pycocotools를 git에서 직접 가져오는 방식입니다. 이것 역시 `Visual Studio 14+` 버전 설치로 인해 실패했습니다.
+<br><br>
 
 ### `PyPl에서 직접 설치`
 ---
