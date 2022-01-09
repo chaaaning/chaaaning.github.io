@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: "[Laptop] 노트북 구매에 대해"
 date: 2022-01-09 00:11 +0800
@@ -80,4 +80,4 @@ toc:  true
 <div id="post-disqus" class="container">
 {% include disqus.html %}
 </div>
-{% endif %}
+{% endif %} -->
