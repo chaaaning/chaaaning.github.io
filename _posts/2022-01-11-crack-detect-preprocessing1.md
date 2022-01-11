@@ -143,3 +143,9 @@ Carvana(kaggle) 모델을 사용하기 위해서는 이미지 데이터와 마�
 <span style="color:magenta">
 → *현재는 Carvana(kaggle) 모델을 기반으로 전처리하고 있지만, 모델과 input format에 따라 달라질 수 있음*
 </span>
+
+{% if page.comments %}
+<div id="post-disqus" class="container">
+{% include disqus.html %}
+</div>
+{% endif %}
