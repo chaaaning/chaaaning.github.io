@@ -143,6 +143,7 @@ DEPENDENCIES
   bundler (~> 2.1)
   jekyll-admin
   jekyll-compose
+  jekyll-feed
   jekyll-sitemap
   not-pure-poole!
   rake (~> 12.0)
