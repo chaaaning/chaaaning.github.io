@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://chaaaning.github.io/sitemap.xml
+Allow:/
