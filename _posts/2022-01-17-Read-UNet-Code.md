@@ -227,9 +227,17 @@ def __getitem__(self, idx):
         'mask': torch.as_tensor(mask.copy()).long().contiguous()
     }
 ```
-해당 메서드는 불러온 이미지를 `Dataloader`에 올라갈 수 있게 끔 만들어 줍니다. `assert`문을 통해 
+해당 메서드는 불러온 이미지를 `Dataloader`에 올라갈 수 있게 끔 만들어 줍니다. `assert`문을 통해 데이터 변화 과정의 오류를 점검할 수 있습니다. 큰 흐름은
+1. image, mask data의 파일명 불러오기
+2. 파일명을 통해 데이터 불러오기
+3. 불러온 데이터 전처리 하기
 
-...... 수정 중 ......
+와 같은 과정을 띄고 있습니다.
+<br><br>
+
+## 마치며
+---
+데이터 불러오는 `.py` 파일을 읽어 보았습니다. 나름 파이썬에 익숙해졌다고 생각했는데, 기초 문법부터 `torch`, `numpy`까지 부족한 점을 많이 느낄 수 있었습니다. 그래도 코드 라인을 한 줄씩 읽으면서 `assert`문은 실제로 이 다음 변형 과정에서도 디버깅을 하는 데에도 유용하게 사용했습니다.
 
 {% if page.comments %}
 <div id="post-disqus" class="container">
