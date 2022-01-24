@@ -203,7 +203,7 @@ def load(cls, filename):
 ```
 실제로 이미지를 읽어 오는 메서드입니다. `PIL.Image`의 형태로 읽어오고 확장자 맞게 끔 읽어 올 수 있도록 역할을 수행합니다.
 
-### __getitem__(self)
+### **`__getitem__(self)`**
 ---
 ```python
 def __getitem__(self, idx):
